@@ -1,0 +1,6 @@
+{
+  "include": ["javascripts/**/*.ts"],
+
+  "compilerOptions": {
+  }
+}
