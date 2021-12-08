@@ -1,3 +1,4 @@
+/// <reference types="chart.js" />
 function getContext(id) {
     var canvas = document.getElementById(id);
     var context = canvas.getContext('2d');
